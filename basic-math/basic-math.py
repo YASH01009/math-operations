@@ -1,12 +1,16 @@
+'''This function adds numbers'''
 def add(a,b):
     return a+b
 
+'''This function subtracts numbers'''
 def subtract(a,b):
     return a-b
 
+'''This function multiplies numbers'''
 def multiply(a,b):
     return a*b
 
+'''This function divides numbers'''
 def divide(a,b):
     return a/b
 
