@@ -10,8 +10,8 @@ def multiply(a,b):
 def divide(a,b):
     return a/b
 
-a = int(input())
-b = int(input())
+a = int(input(Enter the first number : ))
+b = int(input(Enter the second number : ))
 
 print(add(a,b))
 print(subtract(a,b))
