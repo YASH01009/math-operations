@@ -13,7 +13,8 @@ def divide(a,b):
 a = int(input("Enter the first number : "))
 b = int(input("Enter the second number : "))
 
-print("The sum is " + add(a,b))
-print("The difference is " + subtract(a,b))
-print("The product is " + multiply(a,b))
-print("The quotient is " + divide(a,b))
+print("The results are ")
+print("sum : " + add(a,b))
+print("difference : " + subtract(a,b))
+print("product : " + multiply(a,b))
+print("quotient : " + divide(a,b))
