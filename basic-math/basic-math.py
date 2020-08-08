@@ -15,6 +15,7 @@ a = int(input("Enter the first number : "))
 b = int(input("Enter the second number : "))
 x = int(input("Enter the third number : "))
 
+'''Displaying output for the user'''
 print("The results are ")
 print("sum : " + add(a,b))
 print("difference : " + subtract(a,b))
