@@ -10,6 +10,7 @@ def multiply(a,b):
 def divide(a,b):
     return a/b
 
+'''Taking input from the user'''
 a = int(input("Enter the first number : "))
 b = int(input("Enter the second number : "))
 x = int(input("Enter the third number : "))
